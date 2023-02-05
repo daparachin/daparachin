@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently learning *C* 
-🧑🏽‍💻 42 Prague
+I’m currently learning *C* 🧑🏽‍💻 42 Prague
